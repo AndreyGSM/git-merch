@@ -1,0 +1,2 @@
+realize un codigo que genere un numero aleatorio entre 1 y 10 luego,
+pida al usuario adivinar el numero hasta que lo haga correctamente.
